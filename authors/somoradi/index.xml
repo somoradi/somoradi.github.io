@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie</title>
+    <link>https://somoradi.github.io/authors/somoradi/</link>
+    <description>Recent content on Sophie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://somoradi.github.io/authors/somoradi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://somoradi.github.io/authors/somoradi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://somoradi.github.io/authors/somoradi/</guid>
+      <description>About me: Hi. I am a current 4th year PhD candidate in the Linguistics Department at Stony Brook University. My primary research interests lie in linguistic morphology and its interfaces. My thesis, co-advised by Mark Aronoff and Thomas Graf, deals with monotonic functions (mappings) in morphological paradigms.
+Interests:  Word Structure Inflectional Paradigms Morphological Complexity Typology of Iranian Languages  Research:  Monotonic mappings in morphological paradigms
+ Verb stem syncretism (2018) abstract - pdf - slides   Morphotactic Complexity (with Alena Aksenova and Thomas Graf)</description>
+    </item>
+    
+  </channel>
+</rss>

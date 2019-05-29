@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Sophie</title>
+    <link>https://somoradi.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Sophie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://somoradi.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://somoradi.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://somoradi.github.io/publication/journal-article/</guid>
+      <description>title: &amp;ldquo;An example journal article&amp;rdquo; authors:
+date: &amp;ldquo;2015-09-01T00:00:00Z&amp;rdquo; doi: &amp;ldquo;&amp;rdquo;
+Schedule page publish date (NOT publication&amp;rsquo;s date). publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;
+Publication type. Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article; 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section; 7 = Thesis; 8 = Patent publication_types: [&amp;ldquo;2&amp;rdquo;]
+Publication name and optional abbreviated publication name. publication: &amp;ldquo;Journal of Source Themes, 1(1)&amp;rdquo; publication_short: &amp;ldquo;&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
